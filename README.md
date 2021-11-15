@@ -26,8 +26,8 @@ Redirect to outher URL
 ```html
 <p>
     If your browser supports meta tag redirect, you will be redirected
-	to our <a href="https://www.newwebsite.com">new site</a>
-	in 5 seconds, otherwise select the link manually.
+    to our <a href="https://www.newwebsite.com">new site</a>
+    in 5 seconds, otherwise select the link manually.
 </p>
 ```
 ## Demo
