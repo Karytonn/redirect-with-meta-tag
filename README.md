@@ -11,7 +11,7 @@ Redirect to outher URL
 - Fix 404 error
 
 
-## Whol implements
+## How to implement
 
 1) Create an ```index.html``` file and set a meta tag whit ```http-equiv="refresh"``` property
 
@@ -32,7 +32,7 @@ Redirect to outher URL
 ```
 ## Demo
 
-(Click here to demo)[]
+[Click here to demo](https://github.com/Karytonn/redirect-with-meta-tag/blob/main/index.html)
 
 
 ## NOTE
